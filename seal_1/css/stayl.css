@@ -1,0 +1,37 @@
+.block__title h1{
+   text-align: center;
+   letter-spacing: 15px;
+}
+.block__title h2{
+   text-align: right;
+}
+a{
+   font-size: 25px;
+   color: rgb(183, 0, 255);
+}
+.listul{
+   text-align:center;
+   color: #00FF00;
+   border: 2px solid #740707;
+}
+.block__text02{
+   font-family: initial;
+   font-size: 22px;
+   padding: 29px;
+   border: solid#000;
+}
+.block__text{
+   color: #808080;
+   padding: 10px;
+   margin-left: 50px;
+   border: #00FF00 solid;
+}
+.block__text p{
+   color: #b31111;
+}
+.text02__title{
+   text-align: center;
+   color: #CD853F;
+   letter-spacing: 5px;
+   font-size: 50px;
+}
