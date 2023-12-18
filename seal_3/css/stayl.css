@@ -1,0 +1,43 @@
+.title{
+   text-align: center;
+}
+*{
+   color: #353030;
+}
+body{
+   background: #e6d6d6;
+}
+#i01{
+   border: 1px solid #000;
+   color: #9c0b0b;
+   text-align: center;
+}
+#i01>a{
+   color: #faf7f7;
+}
+.divwdiv>.div>p{
+   color: aqua;
+}
+.divwdiv>.div{
+   border: 1px solid #000;
+   margin: 25px;
+   padding: 15px;
+   background: #000;
+}
+.divwdiv{
+   border: 1px solid #000;
+   padding: 20px;
+}
+.divwdiv>p{
+   color: #dd5506;
+}
+.text>p{
+   color: #00e700;
+}
+
+.div + p{
+   color: #014beb;
+}
+.text >p, .textlessen >p{
+   color: #059e8a;
+}
