@@ -1,0 +1,27 @@
+.title{
+   text-align: center;
+   font-size: 30px;
+   letter-spacing: 15px;
+   color: #0637bd;
+   border: 1px solid #000;
+   background: #e0baba;
+   margin: 25px;
+}
+*{
+   background: #a09f9f;
+}
+
+.lessen,
+.div{
+   color: #df0606;
+}
+.text{
+   color: #5d3480;
+}
+.divwdiv{
+   background: #b88f5288;
+   color: #a623c0;
+}
+.text a{
+   color: #000;
+}
