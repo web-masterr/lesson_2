@@ -1,0 +1,35 @@
+[class="body"] {
+   font-family: serif;
+   color: aquamarine;
+}
+
+body {
+   color: #f16565;
+}
+
+.body {
+   padding: 25px;
+   margin: 15px;
+   border: 1px solid #000;
+}
+
+.sab__title {
+   border: 1px solid #000;
+   text-align: center;
+   background: #000;
+   display: inline block;
+}
+
+.lessen {
+   color: #c50202;
+}
+
+.lessen span {
+   color: #9e8704;
+}
+
+
+.div,
+.lessen__text p {
+   color: #0321ca;
+}
