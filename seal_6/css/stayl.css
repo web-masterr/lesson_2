@@ -1,0 +1,36 @@
+[class="body"] {
+   font-family: serif;
+   color: aquamarine;
+   background: #000;
+}
+body{
+   background: #e90303;
+}
+.block{
+   font-family: serif;
+   color: rgb(101, 6, 145);
+}
+[href]{
+   color: #808683;
+   font-size: 35px;
+}
+
+.header__title {
+   text-align: center;
+}
+
+.ol {
+color: #0016df;
+font-size: 50px;
+}
+.footer {
+   text-align: left;
+}
+
+.ollist{
+   border: 1px solid #5c5c5c;
+   font-size: 30px;
+}
+* li{
+   color: #ced109;
+}
