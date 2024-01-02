@@ -1,0 +1,40 @@
+body{
+   background: #969c81;
+}
+li{
+   text-align: center;
+   color: #c00a0a;
+}
+
+.title01,.title01{
+   font-size: 90px;
+   letter-spacing: 10px;
+   text-align: center;
+}
+
+.list {
+   border: 1px solid #000;
+   padding: 25px;
+}
+
+.text {
+   color: #0a25c0;
+   border: 5px solid #ffffff;
+   padding: 10px;
+   margin: 25px;
+   text-align: center;
+}
+.img {
+   border: 5px dotted #000;
+   padding: 10px;
+   margin: 20px;
+   text-align: center;
+}
+.footer {
+   background: #000;
+}
+.footer a{
+   display:block;
+   text-align: center;
+   color: #ffffff;
+}
