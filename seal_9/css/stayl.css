@@ -1,0 +1,57 @@
+*{
+   color: rgb(102, 102, 4);
+}
+body{
+   background: #0075d479;
+}
+
+[href]{
+   color: aqua;
+   font-size: 25px;
+
+}
+
+.header {
+   background: #161414;
+   border: 1px solid #000;
+   border-radius: 0 0 50px 50px;
+}
+.ul li{
+   display: inline;
+   padding: 5px;
+   margin-right: 15px;
+   border-radius: 5px;
+   border: 1px solid #fffafa;
+   background: #4d1010;
+}
+.ul{
+   text-align: right;
+}
+.sadtitle{
+   letter-spacing: 9px;
+   font-size: 60px;
+   text-align: center;
+   color: #FFFFF0;
+}
+
+.main__block{
+   border: 1px solid #000;
+   border-radius: 20px;
+   padding: 25px;
+   background: #ddc9c9;
+}
+.img{
+   text-align: center;
+}
+
+
+
+.footer{
+   background: #1a1717;
+   border: 1px solid #000;
+   border-radius: 50px 50px 0 0;
+   padding: 50px;
+}
+.footer__text p,.footer__ul li{
+   color: aqua;
+}
